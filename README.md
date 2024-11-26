@@ -33,7 +33,8 @@ We have structured our project into separate folders to maintain clarity and org
     - The youtube link for the explanation video can be found [here](https://youtu.be/y78fq7vCHi4?si=6zj9N_54JkJj3Ery).
 ---
 
-## Instructions:
+## INSTRUCTIONS:
+- Please note that the saved_data and saved_data2 should be in the same directory as the python notebooks. 
 - Each folder contains detailed instructions on how to run the code along with explanations of the different approaches used in solving the problem.
 - Plots for each approach are also included to provide a clear understanding of their performance and outcomes.
 
