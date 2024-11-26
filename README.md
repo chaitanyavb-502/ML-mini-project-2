@@ -27,6 +27,10 @@ We have structured our project into separate folders to maintain clarity and org
 3. **Project Documentation**
     - Contains all the relevant latex files, images, pdfs, etc.
 
+5. **Other Relevant Links**
+    - The presentation slides corresponding to problem 2 can be found at [this](https://drive.google.com/file/d/16M1vzTdMby0obWokpMC8oeYKSnHBBGg9/view?usp=drive_link) link.
+    - The corresponding research paper can be found at [this](https://arxiv.org/pdf/2301.10418) link.
+    - The youtube link for the explanation video can be found [here](https://youtu.be/y78fq7vCHi4?si=6zj9N_54JkJj3Ery).
 ---
 
 ## Instructions:
